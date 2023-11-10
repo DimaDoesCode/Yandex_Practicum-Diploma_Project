@@ -1,4 +1,4 @@
-# Yandex-Practicum <a id='diploma_droject'></a>
+# Yandex-Practicum <a id='diploma_project'></a>
 ## Repository of the Data Science Specialist course.
 ### Yandex Practicum / Sprint #20 - Diploma Project
 
@@ -12,4 +12,4 @@ TeleDom, a telecommunications company, aims to combat customer churn. To achieve
 
 | Project Name | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
-| [Diploma Project](diploma_droject) | The operator's team has gathered personal data about some customers, along with information about their tariffs and services. Your task is to train a model on this data to predict customer churn.</i>|
+| [Diploma Project](diploma_project) | The operator's team has gathered personal data about some customers, along with information about their tariffs and services. Your task is to train a model on this data to predict customer churn.|<i> catboost, datetime, IPython.display, joblib, json, matplotlib.pyplot, np, os, pandas, phik, seaborn, shap, sklearn, warnings</i>
