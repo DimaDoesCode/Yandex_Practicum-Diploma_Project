@@ -1,7 +1,7 @@
 # Diploma Project
 ---
 
-##Project Description: Customer Churn Prediction for TeleDom Communication Operator
+## Project Description: Customer Churn Prediction for TeleDom Communication Operator
 
 TeleDom, a telecommunications company, aims to combat customer churn. To achieve this, its staff will start offering promo codes and special conditions to those planning to terminate their communication services. To proactively identify such users, TeleDom needs a model that predicts whether a subscriber will terminate their contract. The operator's team has gathered personal data about some customers, along with information about their tariffs and services. Your task is to train a model on this data to predict customer churn.
 
@@ -22,7 +22,7 @@ Additional services include:
 
 Customers can pay for services monthly or enter into contracts for 1-2 years. Payment can be made in various ways, and electronic receipts are available.
 
-##Data Description:
+## Data Description:
 
 The data consists of several files obtained from different sources:
 
