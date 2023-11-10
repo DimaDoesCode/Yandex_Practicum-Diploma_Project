@@ -4,7 +4,7 @@
 
 *Project Description*
 
-<img src="https://github.com/DimaDoesCode/Yandex_Practicum-Diploma_Project/blob/master/diploma_droject.png" width="200" height="200" align="left"/>
+<img src="https://github.com/DimaDoesCode/Yandex_Practicum-Diploma_Project/blob/master/diploma_project.png" width="200" height="200" align="left"/>
 
 TeleDom, a telecommunications company, aims to combat customer churn. To achieve this, its staff will start offering promo codes and special conditions to those planning to terminate their communication services. To proactively identify such users, TeleDom needs a model that predicts whether a subscriber will terminate their contract. The operator's team has gathered personal data about some customers, along with information about their tariffs and services. Your task is to train a model on this data to predict customer churn.
 
