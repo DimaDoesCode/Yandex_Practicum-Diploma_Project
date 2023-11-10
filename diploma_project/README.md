@@ -1,5 +1,4 @@
 # Diploma Project
----
 
 ## Project Description: Customer Churn Prediction for TeleDom Communication Operator
 
