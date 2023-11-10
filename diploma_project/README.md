@@ -75,7 +75,7 @@ The primary metric for model quality assessment is ROC_AUC. The interpretation m
 
 ---
 
-<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Diploma_Project/blob/master/diploma_project/diploma_project_final.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
+<a href="https://github.com/DimaDoesCode/Yandex_Practicum-Diploma_Project/blob/master/diploma_project/Diploma_Project_final.ipynb">To view the Jupyter Notebook code of the research, click on this link.</a>
 
 ## Libraries used
 <i>catboost, datetime, IPython.display, joblib, json, matplotlib.pyplot, np, os, pandas, phik, seaborn, shap, sklearn, warnings</i>
